@@ -9,11 +9,11 @@
 
 
 ### Second Semester, Januery 2020
-- [HMIN211 - Analyse et traitemen des images]()
-- [HMIN215 - Structures de données]()
-- [HMIN216M - Analyse et Conduite de projet ]()
-- [HMIN217 - TER]()
-- [HMIN219 - Réseaux avancés]()
+- [HMIN211 - Analyse et traitemen des images](https://github.com/su6i/masterIpsSemester2/tree/8c4519244bdfe5d3d0ab50a3e8021ab1a953900c/HMIN211%20-%20Analyse%20et%20traitemen%20des%20images)
+- [HMIN215 - Structures de données](https://github.com/su6i/masterIpsSemester2/tree/8c4519244bdfe5d3d0ab50a3e8021ab1a953900c/HMIN215%20-%20Structures%20de%20données)
+- [HMIN216M - Analyse et Conduite de projet ](https://github.com/su6i/masterIpsSemester2/tree/8c4519244bdfe5d3d0ab50a3e8021ab1a953900c/HMIN216M%20-%20Analyse%20et%20Conduite%20de%20projet%20)
+- [HMIN217 - TER](https://github.com/su6i/masterIpsSemester2/tree/8c4519244bdfe5d3d0ab50a3e8021ab1a953900c/HMIN217%20-%20TER)
+- [HMIN219 - Réseaux avancés](https://github.com/su6i/masterIpsSemester2/tree/8c4519244bdfe5d3d0ab50a3e8021ab1a953900c/HMIN219%20-%20Réseaux%20avancés)
 ### Third Semester, September 2020
 
 ### Forth Semester, January 2021
