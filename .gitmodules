@@ -1,0 +1,9 @@
+[submodule "masterIpsSemester1"]
+	path = masterIpsSemester1
+	url = git@github.com:su6i/masterIpsSemester1.git
+[submodule "masterIpsSemester2"]
+	path = masterIpsSemester2
+	url = git@github.com:su6i/masterIpsSemester2.git
+[submodule "masterIpsSemester3"]
+	path = masterIpsSemester3
+	url = git@github.com:su6i/masterIpsSemester3.git
