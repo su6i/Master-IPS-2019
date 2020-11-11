@@ -15,6 +15,13 @@
 - [HMIN217 - TER](https://github.com/su6i/masterIpsSemester2/tree/master/HMIN217%20-%20TER)
 - [HMIN219 - Réseaux avancés](https://github.com/su6i/masterIpsSemester2/tree/master/HMIN219%20-%20Réseaux%20avancés)
 ### Third Semester, September 2020
+- [HMIN103 - Données du Web](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN103%20-%20Données%20du%20Web)   
+- [HMIN324M - Logiciel embarqué](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN324M%20-%20Logiciel%20embarqué)   
+- [HMIN325M - Technologies avancées du web](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN325M%20-%20Technologies%20avancées%20du%20web)   
+- [HMIN327 - Programmation avancée](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN327%20-%20Programmation%20avancée)   
+- [HMIN328 - Administration de bases de données](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN328%20-%20Administration%20de%20bases%20de%20données) 
+- [HMIN340 - NOSQL - Nouvelles approches pour la persistance des données](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN340%20-%20NOSQL%20-%20Nouvelles%20approches%20pour%20la%20persistance%20des%20données)   
+
 
 ### Forth Semester, January 2021
 
