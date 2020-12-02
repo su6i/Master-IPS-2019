@@ -21,6 +21,7 @@
 - [HMIN327 - Programmation avancée](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN327%20-%20Programmation%20avancée)   
 - [HMIN328 - Administration de bases de données](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN328%20-%20Administration%20de%20bases%20de%20données) 
 - [HMIN340 - NOSQL - Nouvelles approches pour la persistance des données](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN340%20-%20NOSQL%20-%20Nouvelles%20approches%20pour%20la%20persistance%20des%20données)   
+- [HMIN326M - Fouille de données](Master-IPS-2019/masterIpsSemester3/HMIN326M - Fouille de données)   
 
 
 ### Forth Semester, January 2021
