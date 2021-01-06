@@ -33,3 +33,7 @@
 ---
 
 # [Master IMAGINA, Montpellier University](https://github.com/todorico/master-imagina)
+
+# [Les annales des cours de Monsieur Pierre POMPIDOR, Montpellier University](http://www.lirmm.fr/~pompidor/EXAMENS/examens.html)
+
+
