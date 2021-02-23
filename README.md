@@ -1,7 +1,6 @@
 # Master Informatique pour les sciences (IPS) - 2019, Montpellier University
 
 
-![visitors](https://counter.gofiber.io/badge/su6i/Master-IPS-2019)
 ### First Semester, September 2019
 
 
