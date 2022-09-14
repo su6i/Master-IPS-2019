@@ -27,6 +27,7 @@
 - [HMIN326M - Fouille de données](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN326M%20-%20Fouille%20de%20donn%C3%A9es)
 - [HMIN327 - Programmation avancée](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN327%20-%20Programmation%20avancée)
 - [HMIN328 - Administration de bases de données](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN328%20-%20Administration%20de%20bases%20de%20données)
+- [HMIN329 - Algorithmique et complexité](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN329%20-%20Algorithmique%20et%20complexité) 
 - [HMIN340 - NOSQL - Nouvelles approches pour la persistance des données](https://github.com/su6i/masterIpsSemester3/tree/master/HMIN340%20-%20NOSQL%20-%20Nouvelles%20approches%20pour%20la%20persistance%20des%20données)
 
 ### Forth Semester, January 2021
